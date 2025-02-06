@@ -4,7 +4,7 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 ## Funcionalidades ⚙️
 
-- ✍️**Agregar nombres:** Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en **"Añadir"** para agregarlos a la lista.
+- ✍️**Agregar nombres:** Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en **"Añadir"** o presionando **"Enter"** para agregarlos a la lista.
 - 👀**Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
 
    ![Agregar nombre](./assets/funcion1.png)
